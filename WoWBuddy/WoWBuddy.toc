@@ -1,0 +1,8 @@
+## Interface: 80200
+## Title: WoWBuddy
+## Version: 1.0
+## Author: jamie
+
+embeds.xml
+
+WoWBuddy.lua
